@@ -1,8 +1,8 @@
 const settings = {
-  packname: 'Knight Bot',
-  author: '‎',
-  botName: "Neutron Blaze",
-  botOwner: 'michael', // Your name
+  packname: 'NeutronBlaze',
+  author: 'NeutroBlaze‎',
+  botName: "NeutronBlaze",
+  botOwner: 'NeutronBlaze', // Your name
   ownerNumber: '244761591', //Set your number here without + symbol, just add country code & number without any space
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
